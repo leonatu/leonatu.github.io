@@ -40,7 +40,7 @@ img{
     background-color: black;
 }
 
-#links{
+.links{
 	color: #396C9F;
 	text-align: center;
 	font-size: 30px;
@@ -50,7 +50,10 @@ img{
 	font-style: italic;
 }
 
-
-
-
+.footer{
+	position: relative;
+    bottom: 30px;
+    width: 100%;
+    margin-top: 5%
+}
 
