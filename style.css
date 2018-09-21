@@ -19,7 +19,8 @@ h4{
 }
 
 a{
-	all: unset;
+	color: #396C9F;
+	text-decoration: none;
 }
 
 a:hover{
