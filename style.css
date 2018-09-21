@@ -26,6 +26,20 @@ a:hover{
 	text-decoration: underline;
 }
 
+img{
+	border: 1px solid #ddd;
+	border-radius: 10px;
+    padding: 6px;
+    width: 275px;
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: white;
+    border-style: solid;
+    background-color: black;
+}
+
 #links{
 	color: #396C9F;
 	text-align: center;
@@ -35,3 +49,8 @@ a:hover{
 .title{
 	font-style: italic;
 }
+
+
+
+
+
