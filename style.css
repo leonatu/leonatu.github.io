@@ -12,9 +12,26 @@ h1{
 h2{
 	text-decoration: underline;
 	font-size: 30px;
-
 }
 
 h4{
+	font-style: italic;
+}
+
+a{
+	all: unset;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+#links{
+	color: #396C9F;
+	text-align: center;
+	font-size: 30px;
+}
+
+.title{
 	font-style: italic;
 }
